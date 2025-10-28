@@ -1,7 +1,7 @@
 # Hey there, I'm Kamel 👋
 
-IT student at MidOcean University
-Full-Stack Developer
+- IT student at MidOcean University
+- Full-Stack Developer
 
 ## 🛠️ Skills & Tech Stack
 
