@@ -1,7 +1,7 @@
 # Hey there, I'm Kamel 👋
 
-I'm a developer from Saudi Arabia.  
-I love building projects, learning new tech, and contributing to open-source.
+IT student at MidOcean University
+Full-Stack Developer
 
 ## 🛠️ Skills & Tech Stack
 
