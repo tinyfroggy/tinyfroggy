@@ -1,4 +1,4 @@
-# Hey there, I'm KAMELK_k_77 👋
+# Hey there, I'm K_k77 👋
 
 - IT student at MidOcean University
 - Full-Stack Developer
