@@ -5,12 +5,8 @@ Full-Stack Developer
 
 I love learning, and I’m always improving my skills by building and experimenting with new ideas.
 
----
-
 [![X](https://img.shields.io/badge/X-@Kamel7_7-black?style=flat&logo=x)](https://x.com/Kamel7_7)
 [![GitHub](https://img.shields.io/badge/GitHub-tinyfroggy-181717?style=flat&logo=github)](https://github.com/tinyfroggy)
-
----
 
 <div align="center">
 
