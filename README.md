@@ -10,8 +10,8 @@ I love learning, and I’m always improving my skills by building and experiment
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tinyfroggy&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=tinyfroggy&show_icons=true&theme=dark&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=tinyfroggy&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinyfroggy&theme=dark" />
 
 </div>
